@@ -38,7 +38,7 @@
 ### 🔗 [30 Days JavaScript Challenge](https://github.com/jain-ritesh/javascript_challange)
 A collection of 30 mini-projects to enhance JavaScript skills, utilizing APIs and responsive design.
 
-### 🔗 [Employee TaskAssign System](https://github.com/jain-ritesh/employee-taskassign-system)
+### 🔗 [Employee TaskAssign System](https://github.com/jain-ritesh/Employee_Task_System)
 A task management application built with React.js, Tailwind CSS, and ShadCN.
 
 ### 🔗 [Car Selling and Inventory System](https://github.com/jain-ritesh/car-selling-inventory)
